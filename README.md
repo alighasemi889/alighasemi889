@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://alighasemi889.github.io/MyPortfolio/](https://alighasemi889.github.io/MyPortfolio/)
 
-- ⚡ Fun fact **I think My love is just computer😁😉**
+- ⚡ Fun fact : **I think My love is just computer😁😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
