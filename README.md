@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Ali, a passionate developer with a mind full of code 💻.<br>When I'm not busy building creative solutions, you can find me geeking out over AI 🤖, web design 🎨, and data analysis 📊.<br><br>On this GitHub profile, you'll find a collection of my projects, experiments, and collaborations. Take a look around, and let's build something amazing together! 🚀<br>
+I'm Ali, a passionate developer with a mind full of code 💻.<br>When I'm not busy building creative solutions, you can find me geeking out over AI 🤖, web design 🎨, and web pentest  📊.<br><br>On this GitHub profile, you'll find a collection of my projects, experiments, and collaborations. Take a look around, and let's build something amazing together! 🚀<br>
 
 
 # 💻 Tech Stack:
