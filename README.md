@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ali Ghasemi (علی قاسمی)
+# Hi there 👋, I'm Ali Ghasemi 
 
 ### 🚀 About Me
 
